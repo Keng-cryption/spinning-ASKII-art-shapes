@@ -31,6 +31,10 @@ This repo includes:
 
 ---
 
+## link to artical that inspired it
+
+https://www.a1k0n.net/2011/07/20/donut-math.html
+
 ## 📂 Directory Structure
 
 ```bash
