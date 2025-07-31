@@ -4,9 +4,8 @@
 #include <unistd.h> // for usleep()
 
 int main() {
-    int asdf, asdfg;
-    scanf("%d", &asdf);
-    asdfg=asdf/2;
+    int asdf, asdfg = 35;
+    asdf = 70;
     float A = 0.0f, B = 0.0f;
     const int width = 213, height = 72;             // Larger display dimensions
     const int bufferSize = width * height;
