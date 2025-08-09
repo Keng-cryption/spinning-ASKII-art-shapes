@@ -10,10 +10,10 @@ This repo includes:
 
 ## 🚀 Features
 
-### 🔐 Keng-cryption
-- Simple encryption/decryption algorithms
-- Matrix transformation logic
-- Custom logic experiments in C
+
+
+### assembly code only works on arm64
+- coded this on a mac
 
 ### 🎞️ ASCII Art Animations
 - Rotating 3D donut using ASCII
